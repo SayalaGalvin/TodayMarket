@@ -1,1 +1,10 @@
-
+[
+  "items": [
+  {
+    "id": 1,
+    "name": "Rice",
+    "amount": "1kg",
+    "price": "Rs.120"
+  }
+  ]
+ ]
