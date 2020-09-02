@@ -5,12 +5,6 @@
     "name": "Rice",
     "amount": "1kg",
     "price": "Rs.120"
-  },
-    {
-    "id": 2,
-    "name": "Dhal",
-    "amount": "1kg",
-    "price": "Rs.120"
   }
 ]
 }
