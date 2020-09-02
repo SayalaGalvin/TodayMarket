@@ -11,24 +11,6 @@
     "name": "Dhal",
     "amount": "1kg",
     "price": "Rs.120"
-  },
-    {
-    "id": 3,
-    "name": "Dry Fish",
-    "amount": "1kg",
-    "price": "Rs.500"
-  },
-     {
-    "id": 4,
-    "name": "Salt",
-    "amount": "1kg",
-    "price": "Rs.150"
-  },
-     {
-    "id": 5,
-    "name": "Sugar",
-    "amount": "1kg",
-    "price": "Rs.90"
   }
 ]
 }
