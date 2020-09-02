@@ -11,6 +11,18 @@
       "name": "Sugar",
       "amount": "1kg",
       "price": "Rs.120"
+    },
+    {
+      "id": 3,
+      "name": "Dhal",
+      "amount": "1kg",
+      "price": "Rs.80"
+    },
+    {
+      "id": 4,
+      "name": "Dry Frish",
+      "amount": "1kg",
+      "price": "Rs.250"
     }
 ]
 }
